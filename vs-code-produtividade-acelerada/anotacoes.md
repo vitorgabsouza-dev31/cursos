@@ -1,4 +1,4 @@
-# 🚀 Guia Definitivo: VS Code (Atalhos & Extensões)
+# 🚀 Curso VS Code Produtividade Acelerada | Instrutor Matheus Battisti (@matheusbattisti)
 
 ## 📂 1. Navegação e Gerenciamento de Arquivos
 
